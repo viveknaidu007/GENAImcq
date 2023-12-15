@@ -1,7 +1,7 @@
-set -gx CONDA_EXE (cygpath "C:/Users/poppo/GENAImcq/env\Scripts\conda.exe")
-set _CONDA_ROOT (cygpath "C:/Users/poppo/GENAImcq/env")
-set _CONDA_EXE (cygpath "C:/Users/poppo/GENAImcq/env\Scripts\conda.exe")
-set -gx CONDA_PYTHON_EXE (cygpath "C:/Users/poppo/GENAImcq/env\python.exe")
+set -gx CONDA_EXE (cygpath "c:/Users/poppo/GENAImcq/env\Scripts\conda.exe")
+set _CONDA_ROOT (cygpath "c:/Users/poppo/GENAImcq/env")
+set _CONDA_EXE (cygpath "c:/Users/poppo/GENAImcq/env\Scripts\conda.exe")
+set -gx CONDA_PYTHON_EXE (cygpath "c:/Users/poppo/GENAImcq/env\python.exe")
 # Copyright (C) 2012 Anaconda, Inc
 # SPDX-License-Identifier: BSD-3-Clause
 #

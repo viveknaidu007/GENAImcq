@@ -1,7 +1,7 @@
-export CONDA_EXE="$(cygpath 'C:/Users/poppo/GENAImcq/env\Scripts\conda.exe')"
+export CONDA_EXE="$(cygpath 'c:/Users/poppo/GENAImcq/env\Scripts\conda.exe')"
 export _CE_M=''
 export _CE_CONDA=''
-export CONDA_PYTHON_EXE="$(cygpath 'C:/Users/poppo/GENAImcq/env\python.exe')"
+export CONDA_PYTHON_EXE="$(cygpath 'c:/Users/poppo/GENAImcq/env\python.exe')"
 
 # Copyright (C) 2012 Anaconda, Inc
 # SPDX-License-Identifier: BSD-3-Clause
